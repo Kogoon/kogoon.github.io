@@ -1,7 +1,7 @@
 # Site settings
 title: Kogoon's Blog # site title
 description: >- # site description
-  안녕하세요. Kogoon 입니다. 
+  DevOps & Security Solutions Architect
 lang: ko-KR # default lang
 timezone: Asia/Seoul # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
