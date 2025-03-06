@@ -4,8 +4,9 @@ description: >- # site description
   Cloud DevOps & Security Solutions Architect
 lang: ko-KR # default lang
 timezone: Asia/Seoul # set your timezone
-image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
-repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
+#image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
+image: assets/img/kogoon_logo.webp
+repo: https://github.com/kogoon/kogoon.github.io # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
 # Profile settings
