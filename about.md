@@ -1,5 +1,5 @@
 ---
-title: 소개
+title: About
 permalink: /about/
 layout: page
 excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
@@ -10,11 +10,11 @@ comments: false
 
 제게 궁금하시거나 글 관련해서 문의사항은 연락주시면 답변 드리겠습니다. 
 
-또한 블로그에 이슈가 있거나 수정이 필요하다면, [report](http://github.com/kogoon/kogoon.github.io/issues/new) 주시면 반영하도록 하겠습니다. 
+또한 블로그에 이슈가 있거나 수정이 필요하다면, [REPORT](http://github.com/kogoon/kogoon.github.io/issues/new) 주시면 반영하도록 하겠습니다. 
 
 감사합니다. 
 
-** Information ✨**
+**Information ✨**
 
 - {{ site.author.email }}
 - github.com/{{ site.author.github }}
