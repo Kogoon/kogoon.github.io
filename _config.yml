@@ -13,7 +13,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Kogoon  # author name
   bio: >- # tell to the world
-    AWS와 보안에 관한 글을 게시 및 공유합니다. 
+    클라우드와 보안에 관한 글을 게시 및 공유합니다. 
   username: Kogoon # general username
   github: Kogoon # github username
   twitter: twitter_username # twitter username

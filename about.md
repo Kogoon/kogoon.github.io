@@ -6,7 +6,7 @@ excerpt: Hello peeps
 comments: false
 ---
 
-안녕하세요. MegazoneCloud에서 AWS Solutions Architect로 근무하고 있습니다. 현재 중앙대학교 보안대학원의 산업융합보안학과에 재학 중에 있습니다. 기술 배우는 것에 재미를 두고 있습니다. AWS 아키텍처를 설계하고 구축하는 업무를 주로 하고 있으며, 보안으로의 Specialty를 가져가기 위한 과정에 있습니다. 경험하고 배운 내용을 꾸준히 기록하고자 합니다. 
+안녕하세요. MegazoneCloud에서 AWS Security Solutions Architect로 근무하고 있습니다. 보안으로의 Specialty를 가져가기 위한 과정에 있습니다. 경험하고 배운 내용을 꾸준히 기록하고자 합니다. 
 
 제게 궁금하시거나 글 관련해서 문의사항은 연락주시면 답변 드리겠습니다. 
 
