@@ -1,7 +1,7 @@
 # Site settings
 title: K's Note # site title
 description: >- # site description
-  Cloud DevOps & Security Solutions Architect
+  Cloud Engineer & Security Specialist
 lang: ko-KR # default lang
 timezone: Asia/Seoul # set your timezone
 #image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
@@ -13,7 +13,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Kogoon  # author name
   bio: >- # tell to the world
-    클라우드와 보안에 관한 글을 게시 및 공유합니다. 
+    클라우드와 보안에 대한 글을 공유합니다.
   username: Kogoon # general username
   github: Kogoon # github username
   twitter: twitter_username # twitter username
