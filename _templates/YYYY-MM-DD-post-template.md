@@ -48,6 +48,9 @@ published: true
 
 여기에 글의 도입부를 작성합니다. 이 글에서 다룰 내용을 간략히 소개합니다.
 
+## 목차
+* TOC
+{:toc}
 
 ## 본문 제목 (H2)
 
@@ -113,6 +116,17 @@ Resources:
 |------|------|------|
 | 항목1 | 설명1 | 비고1 |
 | 항목2 | 설명2 | 비고2 |
+
+### Gist 코드 임베드 (jekyll-gist)
+
+GitHub Gist를 블로그 본문에 임베드하여 코드를 표시합니다.
+```liquid
+{% gist github_username/gist_id %}
+```
+*예시:*
+```liquid
+{% gist kogoon/7342bf248d6f5ad41a87e5b5258e77c8 %}
+```
 
 ### 구분선
 
