@@ -239,5 +239,3 @@ comments: false
 - 📧 Email: [{{ site.author.email }}](mailto:{{ site.author.email }})
 - 🐙 GitHub: [github.com/{{ site.author.github }}](https://github.com/{{ site.author.github }})
 - 💬 Issue Report: [Feedback / Report Bug](http://github.com/kogoon/kogoon.github.io/issues/new)
-
-감사합니다.
