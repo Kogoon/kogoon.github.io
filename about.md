@@ -234,7 +234,6 @@ comments: false
 
 ### 📞 Contact & Channel
 
-제게 궁금한 점이 있으시거나 글 관련 문의는 아래 채널을 통해 연락 주시면 성실히 답변해 드리겠습니다.
 
 - 📧 Email: [{{ site.author.email }}](mailto:{{ site.author.email }})
 - 🐙 GitHub: [github.com/{{ site.author.github }}](https://github.com/{{ site.author.github }})
